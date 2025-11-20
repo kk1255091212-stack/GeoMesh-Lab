@@ -1,4 +1,5 @@
 # GeoMesh-Lab
+GeoMeshLab: A Python tool for computational geometry, generating parametric 3D shapes to explore algorithmic design for architectural applications.
 
 ## Installation
 
